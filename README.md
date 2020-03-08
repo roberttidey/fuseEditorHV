@@ -17,6 +17,9 @@ Uses BaseSupport library for common functions https://github.com/roberttidey/Bas
 Compile and serial upload in Arduino
 Further updates can be done OTA from an exported binary
 
+##Build
+https://www.instructables.com/id/Browser-Interface-ATTiny-Fuse-Editor/
+
 
 
 
